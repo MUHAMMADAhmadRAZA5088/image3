@@ -1,1 +1,1 @@
-web gunicorn E_comrance.wsgi:aplication --log-file -
+web gunicorn E_comrance.wsgi:application --log-file -
